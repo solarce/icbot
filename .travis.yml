@@ -11,4 +11,4 @@ install:
     - "pip3 install --upgrade tox -r test-requirements.txt"
 
 # Run tests
-script: test.sh
+script: ./test.sh
