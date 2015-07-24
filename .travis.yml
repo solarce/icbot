@@ -3,7 +3,7 @@ python:
     - "3.4"
 
 # Docker testing
-sudo: 9000 # 9000
+sudo: 9000
 dist: trusty
 
 # Install dependencies
